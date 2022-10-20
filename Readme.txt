@@ -1,2 +1,2 @@
-echo "# WebProject" >> README.md
-웹제작중입니다.
+# WebProject
+##웹제작중입니다.
